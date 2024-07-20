@@ -139,14 +139,15 @@ Tamamlanan Puan: 160
 
  </details>
  
-- **Sprint Review**: Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir
+- **Sprint Review**: Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Alınan kararlar:
+  - Projeye oyun içi mağaza eklenmesine karar verilmiştir. Oyun içerisinde tamamlanan leveller ve yan görevlerden kazanılan paralar ile mağazadan eşyalar satın alınabilecektir.
+  - Blender konusunda sınırlı bilgiye sahip olunması ve zaman kısıtlamaları nedeniyle istenilen sonuçlar elde edilememiştir. Bu sebeple, açık dünya ve leveller Unity içerisinde tasarlanacaktır.
+
 
 - Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
 
 
 - **Sprint Retrospective:**
-  - Oyun içi mağaza ek
-  - Blender tasarımı konusunda görev dağılımı yapılmıştır.
   - 
   - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
 
