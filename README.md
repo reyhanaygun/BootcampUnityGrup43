@@ -2,8 +2,6 @@
 
 U43 Unity Takımı 
 
-![team_43 (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/26c2d6ba-4427-4f58-9a7a-d0d248ef72a2)
-
 
 # Oyun İle İlgili Bilgiler
 
