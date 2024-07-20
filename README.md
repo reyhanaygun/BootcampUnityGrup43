@@ -135,8 +135,20 @@ Tamamlanan Puan: 160
  <details>
  <summary>Oyunun Screenshotları</summary>
 ![oyunıcıgorsel](https://github.com/user-attachments/assets/79f80670-d113-45ee-a003-a8e1359cb0e3)
+![oyunıcı](https://github.com/user-attachments/assets/6e4e08d8-c4c8-47ed-b39f-b53ddb3c793b)
 
  </details>
+ 
+- **Sprint Review**: Sprint 2'nin sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir
+
+- Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
+
+
+- **Sprint Retrospective:**
+  - Oyun içi mağaza ek
+  - Blender tasarımı konusunda görev dağılımı yapılmıştır.
+  - 
+  - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
 
 -**Diğer Notlar**:
 Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
