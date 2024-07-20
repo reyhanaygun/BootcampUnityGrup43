@@ -148,8 +148,10 @@ Tamamlanan Puan: 160
 
 
 - **Sprint Retrospective:**
-  - 
+  - Takım üyelerinin gelecek sprintte daha aktif olmaları gerektiğine vurgu yapılmıştır.
   - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
+  - Tamamlanan tüm leveller ve açık dünya, ses, ışık ve particle efektleri ile güzelleştirilecektir.
+  - Karakter UI'ı üzerinde çalışılacaktır.
 
 -**Diğer Notlar**:
 Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
