@@ -98,9 +98,17 @@ https://trello.com/b/NZv8NgTM/unity-43
   - Oyunun ismi ve logosu üzerinde geliştirmeler yapılacaktır.
 
 -**Diğer Notlar**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint 1](https://github.com/user-attachments/assets/f3257927-fa70-4dc0-9ac3-030f06a8d66d)
 
 
----
+ </details>
+
 
 # Sprint 2
 
