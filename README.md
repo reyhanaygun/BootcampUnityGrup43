@@ -126,15 +126,15 @@ Tamamlanan Puan: 160
  <details>
   
  <summary>Sprint Board Screenshotları</summary>
-![trelloekran](https://github.com/user-attachments/assets/5c17be56-e598-4979-998b-90b44cc1c0c9)
-![trelloekran2](https://github.com/user-attachments/assets/f9e07d0e-6b21-4426-8b8b-fd8cd69b6fd9)
+![trelloekran](https://github.com/user-attachments/assets/aef1929a-3479-4cbb-a6ea-128609a67566)
+![trelloekran2](https://github.com/user-attachments/assets/eec98365-4832-4970-81ec-60d98b00f80d)
 
  </details>
 
  - **Ürün Durumu**: 
  <details>
  <summary>Oyunun Screenshotları</summary>
-![oyunıcıgorsel](https://github.com/user-attachments/assets/f82af46d-dc5d-4394-a83b-ebee8011acf1)
+![oyunıcıgorsel](https://github.com/user-attachments/assets/79f80670-d113-45ee-a003-a8e1359cb0e3)
 
  </details>
 
