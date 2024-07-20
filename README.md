@@ -113,7 +113,27 @@ Tamamlanan Puan: 160
 # Sprint 2
 
 
----
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+  
+- **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
+ <details>
+<summary>Daily Scrum Toplantı ScreenShotları</summary>
+   
+   |![wp4 (1)](https://github.com/user-attachments/assets/1c9639c4-74bb-4fb1-9b62-896b622f91aa)|![wp5 (1)](https://github.com/user-attachments/assets/89ded34e-bd7f-4552-ba5f-e418a7c4773b)| ![wp6 (1)](https://github.com/user-attachments/assets/b4db7263-7336-4c16-a56f-dfae05b4e98c)  |
+ </details>
+
+
+-**Diğer Notlar**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint 2](https://github.com/user-attachments/assets/0c417d0c-6953-4d38-9ca5-204aba49aa47)
+
+
+ </details>
 
 # Sprint 3
 
