@@ -120,12 +120,14 @@ Tamamlanan Puan: 160
 <summary>Daily Scrum Toplantı ScreenShotları</summary>
    
    |![wp4 (1)](https://github.com/user-attachments/assets/1c9639c4-74bb-4fb1-9b62-896b622f91aa)|![wp5 (1)](https://github.com/user-attachments/assets/89ded34e-bd7f-4552-ba5f-e418a7c4773b)| ![wp6 (1)](https://github.com/user-attachments/assets/b4db7263-7336-4c16-a56f-dfae05b4e98c)  |
+   
  </details>
  
 - **Sprint board update**: 
  <details>
   
  <summary>Sprint Board Screenshotları</summary>
+ 
 ![trelloekran](https://github.com/user-attachments/assets/aef1929a-3479-4cbb-a6ea-128609a67566)
 ![trelloekran2](https://github.com/user-attachments/assets/eec98365-4832-4970-81ec-60d98b00f80d)
 
@@ -134,7 +136,8 @@ Tamamlanan Puan: 160
  - **Ürün Durumu**: 
  <details>
  <summary>Oyunun Screenshotları</summary>
-![oyunıcıgorsel](https://github.com/user-attachments/assets/79f80670-d113-45ee-a003-a8e1359cb0e3)
+  
+![oyunıcıgorsel](https://github.com/user-attachments/assets/eea0c6e5-1a81-4f2f-8f7f-d13d1f0efd74)
 ![oyunıcı](https://github.com/user-attachments/assets/6e4e08d8-c4c8-47ed-b39f-b53ddb3c793b)
 
  </details>
