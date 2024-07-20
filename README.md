@@ -121,7 +121,22 @@ Tamamlanan Puan: 160
    
    |![wp4 (1)](https://github.com/user-attachments/assets/1c9639c4-74bb-4fb1-9b62-896b622f91aa)|![wp5 (1)](https://github.com/user-attachments/assets/89ded34e-bd7f-4552-ba5f-e418a7c4773b)| ![wp6 (1)](https://github.com/user-attachments/assets/b4db7263-7336-4c16-a56f-dfae05b4e98c)  |
  </details>
+ 
+- **Sprint board update**: 
+ <details>
+  
+ <summary>Sprint Board Screenshotları</summary>
+![trelloekran](https://github.com/user-attachments/assets/5c17be56-e598-4979-998b-90b44cc1c0c9)
+![trelloekran2](https://github.com/user-attachments/assets/f9e07d0e-6b21-4426-8b8b-fd8cd69b6fd9)
 
+ </details>
+
+ - **Ürün Durumu**: 
+ <details>
+ <summary>Oyunun Screenshotları</summary>
+![oyunıcıgorsel](https://github.com/user-attachments/assets/f82af46d-dc5d-4394-a83b-ebee8011acf1)
+
+ </details>
 
 -**Diğer Notlar**:
 Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
