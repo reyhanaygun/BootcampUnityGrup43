@@ -55,6 +55,13 @@ https://trello.com/b/NZv8NgTM/unity-43
 - **Sprint içinde tamamlanması tahmin edilen puan**: 480 Puan 
 
 - **Puan tamamlama mantığı**: Proje boyunca toplam 480 puanlık bir backlog bulunmaktadır. Her sprint için 160 puanlık bir hedef belirlenmiştir.
+<details>
+ <summary>Sprint Planı</summary>
+
+![sprint 1](https://github.com/user-attachments/assets/f3257927-fa70-4dc0-9ac3-030f06a8d66d)
+
+
+ </details>
 
 - **Daily Scrum**:Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir.
  <details>
@@ -99,19 +106,25 @@ https://trello.com/b/NZv8NgTM/unity-43
 Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
 Tamamlanması Gereken Puan: 160
 Tamamlanan Puan: 160
- <details>
- <summary>Sprint Planı</summary>
 
-![sprint 1](https://github.com/user-attachments/assets/f3257927-fa70-4dc0-9ac3-030f06a8d66d)
-
-
- </details>
 
 
 # Sprint 2
 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+ 
+- **Puan tamamlama mantığı**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint 2](https://github.com/user-attachments/assets/0c417d0c-6953-4d38-9ca5-204aba49aa47)
+
+
+ </details>
   
 - **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
  <details>
