@@ -17,9 +17,7 @@ U43 Unity Takımı
 
 ## Oyun İsmi
 
-Momo Karanlık Güçlere Karşı
-![momo (1)](https://github.com/onatzgn/BootcampUnityGrup43/assets/73064280/d2379967-fda5-4aea-85a2-0676b3783141)
-
+Momo Against the Dark Forces
 
 ## Oyun Açıklaması
 
@@ -174,14 +172,15 @@ Tamamlanan Puan: 160
 
 # Sprint 3
 
-- **Sprint notları**: Ekibimiz, açık dünya ve level tasarımlarını geliştirmeye devam etmektedir. Sahne aydınlatmaları, VFX, partiküller ve animasyonlar üzerinde çalışmalara başlanmıştır. Hedefimiz, oyunun performansını optimize etmek ve tüm bölüm ve mekaniklerin stabil çalıştığını doğrulamaktır.
+- **Sprint notları**: Ekibimiz, Momo Against the Dark Forces oyununu geliştirmeye devam edecektir. 
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
  
 - **Puan tamamlama mantığı**:
-Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. Hayvan yoldaşlar fikri iptal edilmiştir bu nedenle önceden belirlenen ayı mekanikleri yapılmamıştır. 
+
 Tamamlanması Gereken Puan: 160
-Tamamlanan Puan: 160
+Tamamlanan Puan: 130
 
  <details>
  <summary>Sprint Planı</summary>
