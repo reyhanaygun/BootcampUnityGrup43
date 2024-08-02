@@ -217,6 +217,9 @@ Tamamlanan Puan: 130
   ![onur](https://github.com/user-attachments/assets/593757cd-141c-414d-9320-d1dcc786a4ef)
   ![kasaba](https://github.com/user-attachments/assets/6be86de3-7041-4861-b942-97cd89808e6f)
   ![sirk](https://github.com/user-attachments/assets/736abc12-9829-429d-8ef3-29da2a9f58af)
+  ![oyun3](https://github.com/user-attachments/assets/730d9014-ae50-45e4-b519-b201b171fe9f)
+  ![oyun1](https://github.com/user-attachments/assets/702a3cdb-a211-4da8-b9a8-c218e7fb6cde)
+  ![oyun2](https://github.com/user-attachments/assets/7dd9c1aa-a071-494b-abe7-027dae73972a)
 
 
  </details>
