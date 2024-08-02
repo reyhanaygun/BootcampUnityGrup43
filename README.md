@@ -242,16 +242,15 @@ Tamamlanan Puan: 130
 
 
 - **Sprint Retrospective:**
-  - Takım üyelerinin gelecek sprintte daha aktif olmaları gerektiğine vurgu yapılmıştır.
-  - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
-  - Tamamlanan tüm leveller ve açık dünya, ses, ışık ve particle efektleri ile güzelleştirilecektir.
-  - Karakter UI'ı üzerinde çalışılacaktır.
+- Projemizde kısa sürede çok fazla iş yapmayı hedefledik, ancak beklentilerimizi karşılayamadık ve planladığımız işlerin çoğunu tamamlayamadık. Bu durum, zaman yönetimi ve kaynak planlaması açısından eksikliklerimizin olduğunu göstermektedir. Proje ekibimizin bu deneyimden ders çıkararak daha gerçekçi hedefler belirlemesi ve zaman yönetimi konusunda daha dikkatli olması gerekmektedir. Bu doğrultuda, gelecekteki projelerde daha verimli bir şekilde çalışarak, belirlenen hedeflere ulaşmayı amaçlıyoruz.
+    
+
 
 
 -**Momo Against the Dark Forces Tanıtım Videosu**:
 
 
--**Diğer Notlar**:
+-**Diğer Notlar**: Oyunumuz başta tasarladığımızdan farklı bir noktaya evrilmiştir. Yine de ortaya çıkan sonuçtan memnunuz.
 
 
   
