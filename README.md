@@ -195,7 +195,9 @@ Tamamlanan Puan: 160
  <details>
 <summary>Daily Scrum Toplantı ScreenShotları</summary>
    
-   |![wp3_1](https://github.com/user-attachments/assets/9795e4a9-6e1a-437a-bb20-c73d82fa0e5e)|![wp3_3](https://github.com/user-attachments/assets/2092f82b-2070-4498-b16d-9683952ef709)| ![wp3_2](https://github.com/user-attachments/assets/df1efb79-121d-4046-a25f-ef598482bc1d)  |
+![wp3_1](https://github.com/user-attachments/assets/4a3b1aed-dafa-4803-a462-bfaf5769810b)
+![wp3_3](https://github.com/user-attachments/assets/b9b44162-a8d3-4b46-bcd1-32688db9c1e1)
+![wp3_2](https://github.com/user-attachments/assets/2f6f3074-db50-450a-8366-269f1b7128c6)
    
  </details>
  
