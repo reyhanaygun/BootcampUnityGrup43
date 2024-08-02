@@ -247,7 +247,7 @@ Tamamlanan Puan: 130
 
 
 
--**Momo Against the Dark Forces Tanıtım Videosu**:
+-**Momo Against the Dark Forces Tanıtım Videosu**: https://youtu.be/XurbWbQx_Wg
 
 
 -**Diğer Notlar**: Oyunumuz başta tasarladığımızdan farklı bir noktaya evrilmiştir. Yine de ortaya çıkan sonuçtan memnunuz.
