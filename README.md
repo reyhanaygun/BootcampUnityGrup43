@@ -27,9 +27,7 @@ Momo Against the Dark Forces
 
 - 3D
 - Üstten bakış açılı kamera
-- Hayvan yoldaşlar
 - Açık dünya
-- Multiplayer
 - Zengin hikaye, bulmacalar ve yan görevler
 
 ## Hedef Kitle
@@ -224,8 +222,13 @@ Tamamlanan Puan: 130
  </details>
  
 - **Sprint Review**: Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.
-  - Projeye oyun içi mağaza eklenmesine karar verilmiştir. Oyun içerisinde tamamlanan leveller ve yan görevlerden kazanılan paralar ile mağazadan eşyalar satın alınabilecektir.
-  - Blender konusunda sınırlı bilgiye sahip olunması ve zaman kısıtlamaları nedeniyle istenilen sonuçlar elde edilememiştir. Bu sebeple, açık dünya ve leveller Unity içerisinde tasarlanacaktır.
+   
+  - Hayvan yoldaşlar ve multiplayer fikirleri, oyuna katkı sağlamadığı için iptal edilmiştir.
+  - Orman, mağaralar ve dağlar olarak planladığımız üç level'ı ikiye düşürdük. Orman ve dağ level'larını birleştirdik.
+  - Mağaza ekleme fikri iptal edilmiştir.
+  - Oyuna tekne sürme mekaniği dahil edilmiştir.
+  - Oyunun isminin ingilizce olmasına karar verilmiştir.
+  - Logo tasarlamak yerine sade bir font seçilmiştir. 
 
 
 - Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
@@ -237,8 +240,11 @@ Tamamlanan Puan: 130
   - Tamamlanan tüm leveller ve açık dünya, ses, ışık ve particle efektleri ile güzelleştirilecektir.
   - Karakter UI'ı üzerinde çalışılacaktır.
 
+
+-**Momo Against the Dark Forces Tanıtım Videosu**:
+
+
 -**Diğer Notlar**:
-Tamamlanması Gereken Puan: 160
-Tamamlanan Puan: 160
+
 
   
