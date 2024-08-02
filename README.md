@@ -174,6 +174,66 @@ Tamamlanan Puan: 160
 
 # Sprint 3
 
----
+- **Sprint notları**: Ekibimiz, açık dünya ve level tasarımlarını geliştirmeye devam etmektedir. Sahne aydınlatmaları, VFX, partiküller ve animasyonlar üzerinde çalışmalara başlanmıştır. Hedefimiz, oyunun performansını optimize etmek ve tüm bölüm ve mekaniklerin stabil çalıştığını doğrulamaktır.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 160 Puan
+ 
+- **Puan tamamlama mantığı**:
+Bu sprintte yapılması planlanan görevler aşağıda belirtilmiştir. 
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
+
+ <details>
+ <summary>Sprint Planı</summary>
+
+![sprint3](https://github.com/user-attachments/assets/a02515ec-4882-47d0-a438-fe25cd02724c)
+
+
+ </details>
+  
+- **Daily Scrum**: Daily Scrum toplantıları için gün içi iletişimde WhatsApp, akşam konuşmaları için ise Slack tercih edilmiştir. İki günde bir toplantı düzenlenmiştir.
+ <details>
+<summary>Daily Scrum Toplantı ScreenShotları</summary>
+   
+   |![wp3_1](https://github.com/user-attachments/assets/9795e4a9-6e1a-437a-bb20-c73d82fa0e5e)|![wp3_3](https://github.com/user-attachments/assets/2092f82b-2070-4498-b16d-9683952ef709)| ![wp3_2](https://github.com/user-attachments/assets/df1efb79-121d-4046-a25f-ef598482bc1d)  |
+   
+ </details>
+ 
+- **Sprint board update**: 
+ <details>
+  
+ <summary>Sprint Board Screenshotları</summary>
+ 
+![trelloekran](https://github.com/user-attachments/assets/aef1929a-3479-4cbb-a6ea-128609a67566)
+![trelloekran2](https://github.com/user-attachments/assets/eec98365-4832-4970-81ec-60d98b00f80d)
+
+ </details>
+
+ - **Ürün Durumu**: 
+ <details>
+ <summary>Oyunun Screenshotları</summary>
+  
+
+
+
+ </details>
+ 
+- **Sprint Review**: Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Alınan kararlar:
+  - Projeye oyun içi mağaza eklenmesine karar verilmiştir. Oyun içerisinde tamamlanan leveller ve yan görevlerden kazanılan paralar ile mağazadan eşyalar satın alınabilecektir.
+  - Blender konusunda sınırlı bilgiye sahip olunması ve zaman kısıtlamaları nedeniyle istenilen sonuçlar elde edilememiştir. Bu sebeple, açık dünya ve leveller Unity içerisinde tasarlanacaktır.
+
+
+- Sprint Review katılımcıları: Reyhan Aygün, Onat Özgen, Muhammed Seyfi Büyük, Onur Karasürmeli
+
+
+- **Sprint Retrospective:**
+  - Takım üyelerinin gelecek sprintte daha aktif olmaları gerektiğine vurgu yapılmıştır.
+  - Oyunun logosu üzerindeki geliştirmeler sonraki sprinte bırakılmıştır.
+  - Tamamlanan tüm leveller ve açık dünya, ses, ışık ve particle efektleri ile güzelleştirilecektir.
+  - Karakter UI'ı üzerinde çalışılacaktır.
+
+-**Diğer Notlar**:
+Tamamlanması Gereken Puan: 160
+Tamamlanan Puan: 160
 
   
