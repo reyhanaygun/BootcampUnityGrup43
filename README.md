@@ -216,6 +216,8 @@ Tamamlanan Puan: 160
   ![menu](https://github.com/user-attachments/assets/9fcd519e-e937-4b37-b2b6-5287b125908b)
   ![seyfi](https://github.com/user-attachments/assets/a02a278c-d274-4811-a0f5-06bc184d859b)
   ![onur](https://github.com/user-attachments/assets/593757cd-141c-414d-9320-d1dcc786a4ef)
+  ![kasaba](https://github.com/user-attachments/assets/6be86de3-7041-4861-b942-97cd89808e6f)
+  ![sirk](https://github.com/user-attachments/assets/736abc12-9829-429d-8ef3-29da2a9f58af)
 
 
  </details>
