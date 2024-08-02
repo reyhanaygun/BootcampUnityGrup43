@@ -21,7 +21,12 @@ Momo Against the Dark Forces
 
 ## Oyun Açıklaması
 
-- Oyunumuz, doğayla iç içe yaşayan ve hayvanlarla iletişim kurma yeteneğine sahip karakterimizin, hayvan dostlarıyla beraber karanlık güçlere karşı amansız bir mücadele verdiği, doğayla iç içe geçen epik bir macerayı konu alır. 
+- Momo: Karanlık Güçlere Karşı, oyuncuları büyüleyici bir açık dünyada karanlık güçlerle mücadeleye davet eden heyecan verici bir 3D macera oyunudur. Oyuncular, doğanın dengesini yeniden sağlamak için yola çıkan cesur bir karakterin kontrolünü ele alır.
+- Oyun, iki ana aşamadan oluşur: Büyüleyici adalarda başlayan macera, karanlık mağaralarda devam eder.
+- Oyun mekanikleri arasında hareket etme, zıplama, etkileşim ve düşmanlarla mücadele bulunur. Ayrıca, çeşitli yan görevler ve toplanabilir eşyalar oyuna derinlik katmaktadır.
+-Low poly grafikler ve etkileyici sahne tasarımlarıyla dolu bu macerada, oyuncular Momo'nun hikayesini keşfedecek ve doğanın dengesini geri getirme yolunda destansı bir yolculuğa çıkacaklar.
+Karanlık güçlere karşı savaşta yerinizi alın ve kahraman olarak geri dönün!
+- Karanlık güçlere karşı savaşta yerinizi alın ve kahraman olarak geri dönün!
 
 ## Ürün Özellikleri
 
