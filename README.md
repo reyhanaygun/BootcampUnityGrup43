@@ -206,8 +206,8 @@ Tamamlanan Puan: 160
   
  <summary>Sprint Board Screenshotları</summary>
  
-![trelloekran](https://github.com/user-attachments/assets/aef1929a-3479-4cbb-a6ea-128609a67566)
-![trelloekran2](https://github.com/user-attachments/assets/eec98365-4832-4970-81ec-60d98b00f80d)
+![trello3_1](https://github.com/user-attachments/assets/c2f68845-aed1-4543-85dc-a113e0e288f2)
+![trello3_2](https://github.com/user-attachments/assets/557cb434-5191-4775-ba21-d8003f27bc32)
 
  </details>
 
@@ -224,7 +224,7 @@ Tamamlanan Puan: 160
 
  </details>
  
-- **Sprint Review**: Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir. Alınan kararlar:
+- **Sprint Review**: Sprint 3'ün sonunda ekip ile toplanılmış ve Sprint gözden geçirilmiştir.
   - Projeye oyun içi mağaza eklenmesine karar verilmiştir. Oyun içerisinde tamamlanan leveller ve yan görevlerden kazanılan paralar ile mağazadan eşyalar satın alınabilecektir.
   - Blender konusunda sınırlı bilgiye sahip olunması ve zaman kısıtlamaları nedeniyle istenilen sonuçlar elde edilememiştir. Bu sebeple, açık dünya ve leveller Unity içerisinde tasarlanacaktır.
 
